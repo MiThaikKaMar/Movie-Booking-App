@@ -1,6 +1,6 @@
 # the_movie_booking_app
 
-Flutter Project
+Flutter Project (not finish yet)
 
 ## Getting Started
 
